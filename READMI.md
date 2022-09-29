@@ -10,6 +10,6 @@
 
 * Start To Type Some Secret Message 
 
-* To Get An Link At That Link Was A Secret Message
+* To Get An Link And Copy after Paste the Browser
 
 
